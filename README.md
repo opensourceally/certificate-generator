@@ -19,6 +19,13 @@
 
 ## Setup Steps
 
+#### Using Docker
+- Make sure you have docker and docker-compose installed
+```
+$ docker-compose up
+```
+
+#### Manually
 - Go to directory
 ```
 $ cd certificate-generator
@@ -32,10 +39,16 @@ $ npm install
 $ npm run start
 ```
 
+## Tech Stack Used
+  - Javascript
+  - React
+  - Firebase
+  - Material UI
+
 # [Code of Conduct](CODE_OF_CONDUCT.md)
 
 
-# [Getting Started](contribution_guideline.md)
+# [Getting Started](CONTRIBUTING.md)
 
 
 <h2 id="contribute">Contributing</h2>
@@ -46,11 +59,11 @@ $ npm run start
 
 <h2 id="prs">Issues & Pull Requests</h2>
 
-Before making pull requests please look at our contributing guidelines. You can start working on the issue which are mentioned in issues section. Just drop a comment before working on the issue. Thank you!
+Before making pull requests please look at our contributing guidelines. You can start working on the issue which are mentioned in issues section or add an issue. Just drop a comment before working on the issue. Thank you!
 
 <h2 id="license">License</h2>
 
-The **code** is this repo is licensed under the MIT license. Feel free to use and share it as per the license.
+The **code** in this repository is licensed under the MIT license. Feel free to use and share it as per the license.
 
 <br>
 
